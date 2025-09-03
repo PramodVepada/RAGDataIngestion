@@ -2469,6 +2469,7 @@ dependencies = [
     { name = "pandas" },
     { name = "python-dotenv" },
     { name = "sentence-transformers" },
+    { name = "tiktoken" },
 ]
 
 [package.metadata]
@@ -2484,6 +2485,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.2" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "sentence-transformers", specifier = ">=5.1.0" },
+    { name = "tiktoken", specifier = ">=0.11.0" },
 ]
 
 [[package]]
