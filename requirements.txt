@@ -1,0 +1,10 @@
+pandas
+numpy
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+faiss-cpu
+chromadb
+python-dotenv
+ipykernel
